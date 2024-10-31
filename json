@@ -1,0 +1,12 @@
+{
+  "name": "BullDog",
+  "symbol": "BLD",
+  "description": " future in web 3.0",
+  "image": " images/bulldog.png",
+  "attributes": [
+    {
+      "trait_type": "Generation",
+      "value": "Gen 1"
+    }
+  ]
+}
